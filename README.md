@@ -1,4 +1,4 @@
-:wave: Hello! I'm Nhan. 
+Hi! I'm Nhan. 
 
 I'm a Front-end / Mobile developer & UI-UX Designer from HCMC - Viet Nam.
 
